@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExcplicitCasting_Exercise2/1.0.0": {
+        "runtime": {
+          "ExcplicitCasting_Exercise2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcplicitCasting_Exercise2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

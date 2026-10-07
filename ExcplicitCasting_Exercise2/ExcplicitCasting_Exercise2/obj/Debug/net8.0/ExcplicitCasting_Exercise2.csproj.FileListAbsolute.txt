@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\bin\Debug\net8.0\ExcplicitCasting_Exercise2.exe
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\bin\Debug\net8.0\ExcplicitCasting_Exercise2.deps.json
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\bin\Debug\net8.0\ExcplicitCasting_Exercise2.runtimeconfig.json
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\bin\Debug\net8.0\ExcplicitCasting_Exercise2.dll
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\bin\Debug\net8.0\ExcplicitCasting_Exercise2.pdb
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.AssemblyInfo.cs
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.dll
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\refint\ExcplicitCasting_Exercise2.dll
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.pdb
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ExcplicitCasting_Exercise2.genruntimeconfig.cache
+C:\Users\Student\source\repos\ExcplicitCasting_Exercise2\ExcplicitCasting_Exercise2\obj\Debug\net8.0\ref\ExcplicitCasting_Exercise2.dll
